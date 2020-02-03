@@ -1,0 +1,11 @@
+/**
+ * @name NoMoreCssTab
+ * @author St3rkysDEV
+ * @version ersion auto updates
+ * @description Support Server: https://discord.gg/cG8xcyP
+ * @source https://github.com/St3rkysDEV/BetterDiscord
+ * @website Coming Soon !
+*/
+#bd-settings-sidebar .ui-tab-bar-item:last-child{
+  display:none !important;
+}
